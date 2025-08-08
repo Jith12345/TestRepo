@@ -1,2 +1,0 @@
-# Demo Web Shop
-
